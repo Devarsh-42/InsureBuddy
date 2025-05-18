@@ -20,7 +20,7 @@ const CallToAction = () => {
             Ready to Simplify Your Insurance Journey?
           </h2>
           <p className="text-xl mb-8 text-white/90 max-w-2xl mx-auto">
-            Join thousands of users who have found the perfect insurance coverage with the help of InsurBuddy's AI technology.
+            Join thousands of users who have found the perfect insurance coverage with the help of InsurBuddy&apos;s AI technology.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button

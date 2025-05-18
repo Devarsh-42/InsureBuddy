@@ -79,7 +79,7 @@ const FAQ = () => {
           
           <div className="mt-12 text-center">
             <p className="mb-4 text-muted-foreground">
-              Didn't find what you're looking for?
+              Didn&apos;t find what you&apos;re looking for?
             </p>
             <Button asChild>
               <Link href="/contact">
